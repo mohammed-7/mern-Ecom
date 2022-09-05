@@ -1,7 +1,7 @@
 const data = {
   products: [
     {
-      name: 'Nike',
+      name: 'Nike slim shirt',
       slug: 'nike-slim-shirt',
       category: 'Shirts',
       image: '/images/p1.jpg', //dimensions of images are 679px * 829px
